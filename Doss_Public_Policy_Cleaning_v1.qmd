@@ -86,7 +86,7 @@ ggplot(analysis_sample, aes(x = DN1W2)) +
   ) +
   labs(
     title = "How Often Students Observe Peer Conflict in Schools",
-    subtitle = "Post-Treatment Survey Responses",
+    subtitle = "Student Responses from Schools With and Without Intervention",
     x = "Frequency of seeing students being picked on",
     y = "Number of students"
   ) +
